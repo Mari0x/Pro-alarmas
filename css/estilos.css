@@ -1,0 +1,88 @@
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.barra {
+    background-color: #2C2E43;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.sistemas {
+    background: linear-gradient(to left, #185ADB, #0A1931);
+    color: white;
+}
+
+.marca {
+    font-family: 'Audiowide', cursive;
+}
+
+.basico {
+    background-color: #185ADB;
+    color: white;
+}
+
+.hogar {
+    background-color: #2C2E43;
+    color: white;
+}
+
+.comercios {
+    background-color: #FFC947;
+    color: white;
+}
+
+a:hover {
+    color: #0A1931 !important;
+    background-color: #EFEFEF;
+    border-radius: 0.313rem;
+}
+
+.btn:hover {
+    color: #185ADB !important;
+    background-color: #FFC947;
+}
+
+.card-footer {
+    background-color: white !important;
+    border: none;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+}
+
+.lead {
+    color: #185ADB;
+    font-family: 'Oswald', sans-serif;
+}
+
+.iconos {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-style: italic;
+}
+
+.separador {
+    background-color: #185ADB;
+}
+
+.boton {
+    background-color: #185ADB;
+    color: white !important;
+}
+
+.pie {
+    background-color: #0A1931;
+    color: #EFEFEF;
+}
+
+.pie a {
+    color: #EFEFEF;
+    font-size: 1.563rem;
+}
